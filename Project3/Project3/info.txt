@@ -1,0 +1,3 @@
+boom	390
+hh	350
+arnob	300
